@@ -127,7 +127,7 @@ $ ant.prob : fac, ants as primary decomposer (0 = no, 1 = yes)
 
 $ both.prob : fac, ants and flies as primary decomposer (0 = no, 1 = yes)
 
-$ burried : fac, burried by ants (0 = no, 1 = yes, 2 = half-burried)
+$ burried : fac, burried by ants (0 = no, 1 = yes)
 
 $ no.flies : num, number of carrion-decomposing flies in trap at plot level
 
