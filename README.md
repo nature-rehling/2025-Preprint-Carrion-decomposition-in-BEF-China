@@ -9,23 +9,24 @@ Carrion decomposition in a subtropical biodiversity experiment
 
 dx.doi.org/10.6084/m9.figshare.30444791
 
-Finn Rehling1, Matteo Dadda2, Marc Nagel1, Georg Albert3, Jing-Ting Chen3,4, Heike Feldhaar2, Felix Fornoff1, Arong Luo4, Massimo Martini1,4, 
-Xiaoyu Shi4, Michael Staab5,6, Xianglu Deng7, Xiaojuan Liu7, Chao-Dong Zhu4, Alexandra-Maria Klein1.
+Finn Rehling1, Matteo Dadda2, Marc Nagel1, Georg Albert3, Helge Bruelheide4,5, Jing-Ting Chen3,6, Heike Feldhaar2, Felix Fornoff1, Arong Luo6, 
+Massimo Martini1,6, Xiao-Yu Shi6, Michael Staab7, Xianglu Deng8, Xiaojuan Liu8, Qing-Song Zhou6, Chao-Dong Zhu6, Alexandra-Maria Klein1.
 
 1Chair of Nature Conservation and Landscape Ecology, Albert-Ludwigs-University Freiburg, Freiburg, Germany.
 
-2Animal Population Ecology, University of Bayreuth, Bayreuth, Germany.
+2Animal Population Ecology, Bayreuth Center of Ecology and Environmental Research (BayCEER), University of Bayreuth, Bayreuth, Germany.
 
 3Forest Nature Conservation, Georg-August-University Göttingen, Göttingen, Germany.
 
-4State Key Laboratory of Animal Biodiversity Conservation and Integrated Pest Management, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.
+4Institute of Biology/Geobotany and Botanical Garden, Martin Luther University Halle-Wittenberg, Halle (Saale), Germany.
 
-5Ecological Networks, Technical University Darmstadt, Darmstadt, Germany.
+5German Centre for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany.
 
-6Animal Ecology and Trophic Interactions, Institute of Ecology, Leuphana University Lüneburg, Lüneburg, Germany.
+6State Key Laboratory of Animal Biodiversity Conservation and Integrated Pest Management, Institute of Zoology, Chinese Academy of Sciences, Beijing, China.
 
-7Institute of Botany, Chinese Academy of Sciences, Beijing, China.
+7Animal Ecology and Trophic Interactions, Institute of Ecology, Leuphana University Lüneburg, Lüneburg, Germany.
 
+8Institute of Botany, Chinese Academy of Sciences, Beijing, China.
 
 #################################################################################
 
