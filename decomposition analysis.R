@@ -18,7 +18,7 @@ rm(list = ls())
 # ------------------------------------------------------------------------------
 
 # Directory
-setwd("C:/Finn/Animal carrion/Data portal/") # set working directory
+setwd() # set working directory
 
 # load
 require(glmmTMB)
@@ -40,8 +40,6 @@ require(tibble)
 require(gridExtra)
 
 #carrion <- read.csv()
-carrion <- read.csv("C:/Finn/Animal carrion/Data portal/carrion_total.csv", 
-                    sep=";", dec=",", header=T)
 str(carrion)
 
 # ------------------------------------------------------------------------------
@@ -249,3 +247,4 @@ mloss1 = glmmTMB(cbind(remain, loss)~sc.initial*year+
                  dispformula = ~year+sc.cc+prime.deco)
 
 Anova(mloss1, type="3")
+
