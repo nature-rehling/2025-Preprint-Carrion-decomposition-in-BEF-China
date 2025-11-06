@@ -5,9 +5,9 @@ This repository contains data from:
 
 ################################################################################
 
-Carrion decomposition in a subtropical biodiversity experiment
+Carrion decomposition in a subtropical forest biodiversity experiment
 
-dx.doi.org/10.6084/m9.figshare.30444791
+https://doi.org/10.32942/X2B94B
 
 Finn Rehling1, Matteo Dadda2, Marc Nagel1, Georg Albert3, Helge Bruelheide4,5, Jing-Ting Chen3,6, Heike Feldhaar2, Felix Fornoff1, Arong Luo6, 
 Massimo Martini1,6, Xiao-Yu Shi6, Michael Staab7, Xianglu Deng8, Xiaojuan Liu8, Qing-Song Zhou6, Chao-Dong Zhu6, Alexandra-Maria Klein1.
